@@ -1,7 +1,7 @@
 # CodeSphereSystems-Website ScreenShots
 Welcome to the CodeSphereSystems WordPress Website Screenshots repository. This collection showcases various screens and sections of our website, built using WordPress and customized with the Elementor page builder.
 
-Overview --  
+Overview --
 These screenshots provide a visual overview of our website's layout, design elements, and user interface. They serve as a reference for the look and feel of our online presence.
 
 Usage -- 
